@@ -1,0 +1,1 @@
+Phototransistor based motion detector coded in AVR C in Microchip Studio, deployed onto an Arduino R3 (Atmega 328). A light source constantly shines on a phototransistor, allowing current to flow into a pin. When the current is interrupted by something moving through the light, an external interrupt service routine triggers an alarm.
